@@ -20,9 +20,14 @@
     text-align: center;
 }
 img{
-	margin: 15px 500px;
-	display: block;
+	display:block;
+	width: 1000px;
+	border:none;
+	margin:15px auto;
 }
-span{color:#525454;}
+
+span{
+	color:#525454;
+}
 
 /*# in CSS is for id, . is for class*/
