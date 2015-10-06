@@ -6,7 +6,7 @@
 	color: #666666;
 	border-radius: 15px;
 	font-family: "helvetica";
-	font-size: 14px;
+	font-size: 18px;
 	padding:15px 120px;
 	border:;
 }
@@ -28,6 +28,8 @@ img{
 
 span{
 	color:#525454;
+	font-family: fantasy;
+	font-size: 20px
 }
 
 /*# in CSS is for id, . is for class*/

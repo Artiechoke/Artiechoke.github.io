@@ -1,0 +1,67 @@
+body{
+	background-color: #beffb7;
+}
+
+.container-resume{
+	background-color: white;
+	width: 900px;
+	margin: auto;
+	padding: 100px;
+	font-family: "exo";
+}
+
+.contact-info{
+	font-family: "roboto";
+	text-align: center;
+}
+
+h1{
+	font-size: 60px;
+	font-weight: 700;
+}
+
+h3{
+	font-size: 16px;
+	color:#b9b8b8;
+}
+
+.Section-Header{
+	font-family: "roboto";
+	font-size: 24px;
+	color: #13C400;
+	font-weight: 700;
+}
+
+ul{
+	list-style-type: circle;
+    margin-left:45px;
+    margin-top: 7px;
+}
+
+h4{
+	font-weight: 700;
+	margin-top: 10px
+}
+
+h6{
+	font-size: 12px;
+	font-weight:300;
+	font-style: italic;
+	margin-left: 10px
+}
+
+hr{
+	color: #b9b8b8;
+}
+
+h5{
+	color: #b9b8b8;
+	text-align: right;
+}
+
+a{
+	color:#b9b8b8;
+}
+.italic-font{
+	font-style: italic;
+}
